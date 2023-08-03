@@ -17,6 +17,11 @@
   <strong><a href="https://github.com/MSMK02/">GitHub</a></strong> |
 </p>
 
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/img_about01.png" alt="">
+    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/img_about02.png" alt="">
+</p>
+
 <p align="center">❤ A college student who is struggling for an internship.</p>
 <p align="center">❤ 一个为实习而苦苦挣扎的大学生.</p>
 <!--
