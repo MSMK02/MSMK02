@@ -6,9 +6,9 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/Ai.png" width="15%" height="auto">
+    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/Ai.png" width="12%" height="auto">
     <a href="https://github.com/MSMK02"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
-    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/Ruby.png" width="15%" height="auto">
+    <img src="https://cdn.jsdelivr.net/gh/MSMK02/imgbed/img/Ruby.png" width="12%" height="auto">
 </p>
 
 <p align="center">
